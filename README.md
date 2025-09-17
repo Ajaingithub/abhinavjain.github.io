@@ -11,6 +11,19 @@ Computational biologist with 9+ years of experience in **multi-omics analysis**,
 •	**Cloud Computing:** AWS, MS-Azure, GCP <br>
 •	**Collaboration:** Extensively worked with clinicians, wet-lab, dry-lab <br>
 •	**Industry Consultant:** Consultant for a startup Genomiki Solutions <br>
-•	**Academic Mentorship:** Guided postdoc and PhD students in computational biology projects <br>
+•	**Academic Mentorship:** Guided postdoc and PhD students <br>
 •	**Leadership:** Lead computational team for India 1000 Genome Project <br>
 •	**Version Control:** Git, Github <br>
+<br><br>
+
+### Professional Experience <br>
+**Computational Biologist, Voyant Bio, San Francisco (Startup)**		     May 2025 – Present <br>
+•	Integrated pan cancer immune single cell and spatial dataset to identify the biomarkers to improve immunotherapy response.<br><br>
+
+**Post-Doctoral Fellow, University of California San Francisco** 		    June 2024 – Present<br>
+(Currently Collaborator)	<br>
+•	Analyzed snRNA, ATAC, and spatial (Visium & Xenium) transcriptomics to identify therapeutic targets in SHH medulloblastoma. (1st Revision: Genome Medicine*)<br>
+•	SHH MB driver mutation and genes queried using cancer database (TCGA, cBioPortal). <br>
+•	Developing lineage-tracing methodologies to track tumor evolution using CRISPR barcodes. <br>
+•	Foundation model (scGPT) fine-tuned using >100 paired brain cancer metastasis samples using scRNA dataset <br>
+
