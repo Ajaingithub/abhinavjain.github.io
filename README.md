@@ -16,14 +16,20 @@ Computational biologist with 9+ years of experience in **multi-omics analysis**,
 •	**Version Control:** Git, Github <br>
 <br><br>
 
-### Professional Experience <br>
-**Computational Biologist, Voyant Bio, San Francisco (Startup)** - May 2025 – Present<br>
+### Professional Experience
+**Computational Biologist, Voyant Bio, San Francisco (Startup)** May 2025-Present<br>
 •	Integrated pan cancer immune single cell and spatial dataset to identify the biomarkers to improve immunotherapy response.<br><br>
 
-**Post-Doctoral Fellow, University of California San Francisco** - June 2024 – Present<br>
-(Currently Collaborator)	<br>
-•	Analyzed snRNA, ATAC, and spatial (Visium & Xenium) transcriptomics to identify therapeutic targets in SHH medulloblastoma. (1st Revision: Genome Medicine*)<br>
-•	SHH MB driver mutation and genes queried using cancer database (TCGA, cBioPortal). <br>
-•	Developing lineage-tracing methodologies to track tumor evolution using CRISPR barcodes. <br>
-•	Foundation model (scGPT) fine-tuned using >100 paired brain cancer metastasis samples using scRNA dataset <br>
+**Post-Doctoral Fellow, University of California San Francisco** June 2024-Present<br>
+(Currently Collaborator)<br>                                       
+•	Analyzed **snRNA, ATAC, and spatial (Visium & Xenium)** transcriptomics to identify therapeutic targets in SHH medulloblastoma<br>
+•	SHH MB driver mutation and genes queried using cancer database<br>
+•	Developing **lineage-tracing methodologies** to track tumor evolution using CRISPR barcodes<br>
+•	**Foundation model** (scGPT) fine-tuned using >100 paired scRNA brain cancer metastasis<br>
 
+**Post-Doctoral Fellow, Mayo Clinic, Rochester** Aug 2021–May2024<br> 
+(Currently Collaborator)								        June 2024-Present<br>
+•	Characterized antigen-specific T-cell in aging and vaccine using **CITESeq, BEAM-T & ATACseq**
+•	Performed **scRNA, scTCR and bulk RNA** to identify clonal diversity in naïve CD4 T cells of Aortitis patients
+•	Performed epigenetic analysis using **scmultiome** in aged T cells
+•	Integrated single-cell and spatial **(Visium, CODEX, and multiplexed Cycif)** to study immune cell crosstalk in autoimmune disorders.
