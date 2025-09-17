@@ -20,8 +20,7 @@ Computational biologist with 9+ years of experience in **multi-omics analysis**,
 **Computational Biologist, VoyantBio, San Francisco** May'25-Now<br>
 •	Integrated **pan cancer immune** single cell and spatial dataset to identify the biomarkers to improve **immunotherapy** response.<br>
 
-**Post-Doctoral Fellow, University of California San Francisco** Jun'24-Aug'25<br>
-(Currently Collaborator)                                       
+**Post-Doctoral Fellow, UCSF, San Francisco** Jun'24-Aug'25<br>
 •	Analyzed snRNA, ATAC, and spatial (Visium & Xenium) transcriptomics to identify **therapeutic targets in SHH medulloblastoma**<br>
 •	Developing **lineage-tracing methodologies** to track tumor evolution using CRISPR barcodes<br>
 •	**Foundation model** (scGPT) fine-tuned using >100 paired scRNA **brain cancer metastasis**<br>
@@ -35,6 +34,12 @@ Computational biologist with 9+ years of experience in **multi-omics analysis**,
 **Graduate Research Fellow CSIR-IGIB, New Delhi** July'16 – July'21<br>
 •	Led bioinformatics analysis team for **1,000+ Indian Genome Sequencing Project**, focusing on rare disease variants<br>
 •	Developed workflows for **SARS-CoV-2 variant** tracking using Illumina and Nanopore sequencing<br>
-•	Variant prioritization in **~300 primary immunodeficiency disorder** patients using genome sequencing<br>
+•	Variant prioritization in **~300 primary immunodeficiency disorder** patients using genome sequencing<br><br>
 
+Selected Publications: 38 publications (16 first/co-first author): Full list on Google Scholar<br>
+•	Sturmlechner I*, **Jain A***, et al. Aging trajectories of memory CD8+ T cells differ by their antigen specificity. **Nature Communications (2025)**<br>
+•	Sato Y, **Jain A**, et al. Stem-like CD4 T cells in perivascular tertiary lymphoid structures sustain autoimmune vasculitis. Science Translation Medicine (2023)<br>
+•	**Jain A***, Bhoyar R*, et al. IndiGenomes: a comprehensive resource of genetic variants from over 1000 Indian genomes. Nucleic Acid Research (2021)<br>
+•	Zhang H*, Okuyama H*, **Jain A***, PREX1 improves homeostatic proliferation to maintain a naive CD4+ T cell compartment in older age. JCI Insight (2024)<br>
+*-co-first author<br>
 
