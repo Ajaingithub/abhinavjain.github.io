@@ -17,10 +17,10 @@ Computational biologist with 9+ years of experience in **multi-omics analysis**,
 <br><br>
 
 ### Professional Experience <br>
-**Computational Biologist, Voyant Bio, San Francisco (Startup)**		     May 2025 – Present <br>
+**Computational Biologist, Voyant Bio, San Francisco (Startup)** - May 2025 – Present<br>
 •	Integrated pan cancer immune single cell and spatial dataset to identify the biomarkers to improve immunotherapy response.<br><br>
 
-**Post-Doctoral Fellow, University of California San Francisco** 		    June 2024 – Present<br>
+**Post-Doctoral Fellow, University of California San Francisco** - June 2024 – Present<br>
 (Currently Collaborator)	<br>
 •	Analyzed snRNA, ATAC, and spatial (Visium & Xenium) transcriptomics to identify therapeutic targets in SHH medulloblastoma. (1st Revision: Genome Medicine*)<br>
 •	SHH MB driver mutation and genes queried using cancer database (TCGA, cBioPortal). <br>
