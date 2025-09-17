@@ -1,7 +1,7 @@
-# Professional Summary:
+## Professional Summary:
 Computational biologist with 9+ years of experience in **multi-omics analysis**, specializing in **single-cell, spatial, TCR, epitope, and bioinformatics pipeline development**. Experienced in developing single cell, spatial and bulk multi-omics bioinformatics pipelines in neuro-oncology, immune ageing, autoimmunity, population genomics, & rare disease. Seeking to contribute my skills in biotech for oncology, biomarker discovery, or therapeutic target identification.
 
-### Key Skills
+## Key Skills
 •	**Single-Cell:** scRNA, scTCR, CITESeq, scATAC, Multiome, BEAM-T, TetTCR <br>
 •	**Spatial:** Xenium, Visium, MERFISH, Cyclic IF, CODEX <br>
 •	**Bulk:** Whole Genome Sequencing, Transcriptomics, Epigenomics <br>
@@ -16,7 +16,7 @@ Computational biologist with 9+ years of experience in **multi-omics analysis**,
 •	**Version Control:** Git, Github <br>
 <br><br>
 
-### Professional Experience
+## Professional Experience
 **Computational Biologist, VoyantBio, San Francisco** May'25-Now<br>
 •	Integrated **pan cancer immune** single cell and spatial dataset to identify the biomarkers to improve **immunotherapy** response.<br>
 
@@ -36,7 +36,7 @@ Computational biologist with 9+ years of experience in **multi-omics analysis**,
 •	Developed workflows for **SARS-CoV-2 variant** tracking using Illumina and Nanopore sequencing<br>
 •	Variant prioritization in **~300 primary immunodeficiency disorder** patients using genome sequencing<br><br>
 
-Selected Publications: 38 publications (16 first/co-first author): Full list on Google Scholar<br>
+## Selected Publications: 38 publications (16 first/co-first author): Full list on Google Scholar<br>
 •	Sturmlechner I*, **Jain A***, et al. Aging trajectories of memory CD8+ T cells differ by their antigen specificity. **Nature Communications (2025)**<br>
 •	Sato Y, **Jain A**, et al. Stem-like CD4 T cells in perivascular tertiary lymphoid structures sustain autoimmune vasculitis. **Science Translation Medicine (2023)**<br>
 •	**Jain A***, Bhoyar R*, et al. IndiGenomes: a comprehensive resource of genetic variants from over 1000 Indian genomes. **Nucleic Acid Research (2021)**<br>
