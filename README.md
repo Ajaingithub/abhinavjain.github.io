@@ -38,8 +38,8 @@ Computational biologist with 9+ years of experience in **multi-omics analysis**,
 
 Selected Publications: 38 publications (16 first/co-first author): Full list on Google Scholar<br>
 •	Sturmlechner I*, **Jain A***, et al. Aging trajectories of memory CD8+ T cells differ by their antigen specificity. **Nature Communications (2025)**<br>
-•	Sato Y, **Jain A**, et al. Stem-like CD4 T cells in perivascular tertiary lymphoid structures sustain autoimmune vasculitis. Science Translation Medicine (2023)<br>
-•	**Jain A***, Bhoyar R*, et al. IndiGenomes: a comprehensive resource of genetic variants from over 1000 Indian genomes. Nucleic Acid Research (2021)<br>
-•	Zhang H*, Okuyama H*, **Jain A***, PREX1 improves homeostatic proliferation to maintain a naive CD4+ T cell compartment in older age. JCI Insight (2024)<br>
+•	Sato Y, **Jain A**, et al. Stem-like CD4 T cells in perivascular tertiary lymphoid structures sustain autoimmune vasculitis. **Science Translation Medicine (2023)**<br>
+•	**Jain A***, Bhoyar R*, et al. IndiGenomes: a comprehensive resource of genetic variants from over 1000 Indian genomes. **Nucleic Acid Research (2021)**<br>
+•	Zhang H*, Okuyama H*, **Jain A***, PREX1 improves homeostatic proliferation to maintain a naive CD4+ T cell compartment in older age. **JCI Insight (2024)**<br>
 *-co-first author<br>
 
