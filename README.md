@@ -27,7 +27,7 @@ Computational biologist with 9+ years of experience in **multi-omics analysis**,
 •	**Foundation model** (scGPT) fine-tuned using >100 paired scRNA brain cancer metastasis<br>
 
 **Post-Doctoral Fellow, Mayo Clinic, Rochester** Aug 2021–May2024<br> 
-(Currently Collaborator) <br>								        
+(Currently Collaborator)			        
 •	Characterized antigen-specific T-cell in aging and vaccine using **CITESeq, BEAM-T & ATACseq**<br>
 •	Performed **scRNA, scTCR and bulk RNA** to identify clonal diversity in naïve CD4 T cells of Aortitis patients<br>
 •	Performed epigenetic analysis using **scmultiome** in aged T cells<br>
