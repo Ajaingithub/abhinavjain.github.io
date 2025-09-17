@@ -20,7 +20,7 @@ Computational biologist with 9+ years of experience in **multi-omics analysis**,
 **Computational Biologist, VoyantBio, San Francisco (Startup)** May 2025-Present<br>
 •	Integrated pan cancer **immune single cell and spatial dataset** to identify the biomarkers to improve immunotherapy response.<br>
 
-**Post-Doctoral Fellow, University of California San Francisco** June 2024-Present<br>
+**Post-Doctoral Fellow, University of California San Francisco** June 2024-Aug 2025<br>
 (Currently Collaborator)                                       
 •	Analyzed **snRNA, ATAC, and spatial (Visium & Xenium)** transcriptomics to identify therapeutic targets in SHH medulloblastoma<br>
 •	Developing **lineage-tracing methodologies** to track tumor evolution using CRISPR barcodes<br>
@@ -32,3 +32,10 @@ Computational biologist with 9+ years of experience in **multi-omics analysis**,
 •	Performed **scRNA, scTCR and bulk RNA** to identify clonal diversity in naïve CD4 T cells of Aortitis patients<br>
 •	Performed epigenetic analysis using **scmultiome** in aged T cells<br>
 •	Integrated single-cell and spatial **(Visium, CODEX, and multiplexed Cycif)** to study immune cell crosstalk in autoimmune disorders<br>
+
+Graduate Research Fellow CSIR-IGIB, New Delhi		 July 2016 – July 2021
+•	Led bioinformatics analysis team for 1,000+ Indian Genome Sequencing Project, focusing on rare disease variants. Nucleic Acid Research 2020*
+•	Developed workflows for SARS-CoV-2 variant tracking using Illumina and Nanopore sequencing. Clinical Infectious Disease 2020*
+•	Variant prioritization in ~300 primary immunodeficiency disorder patients using genome sequencing. PloS One 2020*, PloS One 2021*, Human Immunology 2022*
+
+
