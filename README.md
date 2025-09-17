@@ -36,7 +36,7 @@ Computational biologist with 9+ years of experience in **multi-omics analysis**,
 •	Variant prioritization in **~300 primary immunodeficiency disorder** patients using genome sequencing<br><br>
 
 ## Selected Publications:
-Full list [Google Scholar]([https://scholar.google.com/citations?user=YOUR_ID_HERE](https://scholar.google.com/citations?user=sCGcKlsAAAAJ&hl=en))
+Full list [Google Scholar](https://scholar.google.com/citations?user=sCGcKlsAAAAJ&hl=en)<br>
 •	Sturmlechner I#, **Jain A#**, et al. Aging trajectories of memory CD8+ T cells differ by their antigen specificity. **Nature Communications (2025)**<br>
 •	Sato Y, **Jain A**, et al. Stem-like CD4 T cells in perivascular tertiary lymphoid structures sustain autoimmune vasculitis. **Science Translation Medicine (2023)**<br>
 •	**Jain A#**, Bhoyar R#, et al. IndiGenomes: a comprehensive resource of genetic variants from over 1000 Indian genomes. **Nucleic Acid Research (2021)**<br>
