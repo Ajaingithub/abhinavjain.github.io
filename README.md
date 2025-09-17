@@ -36,10 +36,10 @@ Computational biologist with 9+ years of experience in **multi-omics analysis**,
 •	Variant prioritization in **~300 primary immunodeficiency disorder** patients using genome sequencing<br><br>
 
 ## Selected Publications:
-Full list [Google Scholar](https://scholar.google.com/citations?user=sCGcKlsAAAAJ&hl=en)<br>
-•	Sturmlechner I#, **Jain A#**, et al. Aging trajectories of memory CD8+ T cells differ by their antigen specificity. **Nature Communications (2025)**<br>
-•	Sato Y, **Jain A**, et al. Stem-like CD4 T cells in perivascular tertiary lymphoid structures sustain autoimmune vasculitis. **Science Translation Medicine (2023)**<br>
-•	**Jain A#**, Bhoyar R#, et al. IndiGenomes: a comprehensive resource of genetic variants from over 1000 Indian genomes. **Nucleic Acid Research (2021)**<br>
-•	Zhang H#, Okuyama H#, **Jain A#**, PREX1 improves homeostatic proliferation to maintain a naive CD4+ T cell compartment in older age. **JCI Insight (2024)**<br>
+Full list on [Google Scholar](https://scholar.google.com/citations?user=sCGcKlsAAAAJ&hl=en)<br>
+•	Sturmlechner I#, **Jain A#**, et al. Aging trajectories of memory CD8+ T cells differ by their antigen specificity. [Nature Communications (2025)](https://www.nature.com/articles/s41467-025-61627-y)<br>
+•	Sato Y, **Jain A**, et al. Stem-like CD4 T cells in perivascular tertiary lymphoid structures sustain autoimmune vasculitis. [Science Translation Medicine (2023)](https://www.science.org/doi/abs/10.1126/scitranslmed.adh0380?af=R)<br>
+•	**Jain A#**, Bhoyar R#, et al. IndiGenomes: a comprehensive resource of genetic variants from over 1000 Indian genomes. [Nucleic Acid Research (2021)](https://academic.oup.com/nar/article/49/D1/D1225/5937082)<br>
+•	Zhang H#, Okuyama H#, **Jain A#**, PREX1 improves homeostatic proliferation to maintain a naive CD4+ T cell compartment in older age. [JCI Insight (2024)](https://insight.jci.org/articles/view/172848)<br>
 #-co-first author<br>
 
